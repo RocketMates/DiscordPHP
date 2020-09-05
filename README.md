@@ -1,3 +1,8 @@
+> ## THIS REPO WILL BE ARCHIVED ANYTIME SOON
+> ### AS THE [ORIGINAL PACKAGE](https://github.com/teamreflex/DiscordPHP) HAS BEEN REVIVED AND IS [BETTER AND MORE STABLE THAN EVER](https://github.com/teamreflex/DiscordPHP/blob/master/CHANGELOG.md)
+
+---
+
 DiscordPHP
 ====
 
